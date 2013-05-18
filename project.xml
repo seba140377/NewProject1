@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <createDate>2013-05-18T03:16:54.612+02:00</createDate>
+    <localBranchs>
+        <localBranch isActive="true" createDate="2013-05-18T03:16:54.612+02:00" name="master"/>
+    </localBranchs>
+    <locked>false</locked>
+    <name>NewProject1</name>
+    <remoteRepoCreated>true</remoteRepoCreated>
+    <tags/>
+    <template>Template Clean.als</template>
+    <users>
+        <user>
+            <email>Seba1@sam-production.net</email>
+            <username>Seba1</username>
+        </user>
+    </users>
+</project>
